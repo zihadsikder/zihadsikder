@@ -64,7 +64,7 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 
 ## 📫 **Let's Connect!**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Google-Chrome&logoColor=white)](#) *(Coming Soon)*  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Google-Chrome&logoColor=white)](https://zihadsikder.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zihad-sikder-cse/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/zihadsikder)  
 
