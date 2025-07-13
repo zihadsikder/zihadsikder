@@ -53,12 +53,14 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 
 ---
 
-## 🎓 **Current Focus**
+## 🎯 **Current Focus**
 
-✅ AI-based **Educational App** with career guidance insights  
-✅ Researching a **unique AI thesis topic** for international publication & scholarship opportunities  
-✅ Enhancing **SMS Express** for mass SMS campaigns  
-✅ Scaling up **Course Management** for better AI-driven learning experiences  
+✅ Developing an AI-based Educational App with personalized learning paths & career guidance
+✅ Working on a unique AI Thesis for global publication & scholarship consideration
+✅ Scaling SMS Express using Method Channels for deep native SMS scheduling control
+✅ Elevating Course Management System with advanced BLoC architecture & cross-platform support
+✅ Strengthening iOS/Android native integration using Swift, Kotlin, and Java via Method Channels
+✅ Transitioning to BLoC state management for highly scalable and testable architecture
 
 ---
 
