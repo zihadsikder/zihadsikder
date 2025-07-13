@@ -21,45 +21,68 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 
 ### 🚀 **Featured Projects:**
 
-1. **Course Management (Learning Platform)** 📚  
-   *An AI-powered learning platform for students.*
+1. 📚 **Course Management (AI-Powered Learning Platform)**
+*A smart education system that personalizes learning for students using AI-driven content recommendations, progress tracking, and career guidance tools.*
 
-2. **SMS Express (Schedule SMS System)** 📩  
-   *Mass SMS sending and scheduling application.*
+2. 📩 **SMS Express (Mass SMS Scheduler – Native via Method Channel)**
+*An advanced bulk SMS sending & scheduling system integrated natively using platform channels (Java/Kotlin/Swift). Ideal for businesses and campaigns.*
 
-3. **Town’ZZ (Event Management App)** 🎉  
-   *An app to organize and manage events seamlessly.*
+3. 🛒 **Nivai (Smart E-Commerce App)**
+*An online shopping experience with:*
 
-4. **Rokther Sondhane (Easily find a blood donor)** 🩸  
-   *A lifesaving blood donor finding app.*
+*Seamless payment integration*
 
-5. **Dating App** ❤️  
-   *A modern matchmaking application with AI-driven recommendations.*
+*Product boast & custom offers*
 
-6. **Chat App** 💬  
-   *A real-time messaging app with Firebase authentication.*
+*Courier selection*
 
-7. **Vegabuds (E-commerce App)** 🛒  
-   *An online shopping app with payment integration.*
+*Smooth checkout & cart management*
 
-8. **Kutubdia (Island Information App)** 🏝  
-   *A location-based app for island details.*
+4. 🏥 **Health House (Apple Watch Integrated Health Manager)**
+*Fetches real-time fitness and health data directly from Apple Watch using Swift. Features include heart rate zones, workout summary, and health history sync.*
 
-9. **Task App** ⏳  
-   *A time management and productivity tracking app.*
+5. 🎹 **Customized Keyboard App**
+*Built with Java (Android) & integrated into Flutter:*
 
-10. **FitTrack (Fitness & Healthcare App)** 🏋️  
-    *A personal fitness tracking and health monitoring app.*
+*Theme customization*
+
+*Template & symbol insertion*
+
+*Account sync, emoji, and multilingual support*
+
+6. 🌐 **KeySnd Keyboard (Text to PWA)**
+*A Kotlin-based native keyboard that sends typed/selected text to the SaySnd website (PWA) via Android Intents.
+Supports English/Hebrew, a logo-text row, RTL layout, and clipboard copy actions.*
+
+7. 🎉 **Town'ZZ (Event Management App)**
+*An all-in-one event planning and organizing tool – from invites to ticketing and check-ins, powered with real-time updates.*
+
+8. 🩸**Rokther Sondhane (Find Blood Donors Nearby)**
+*A lifesaving mobile application to instantly find and request blood donors based on location and blood type. Supports emergency mode & real-time updates.*
+
+9. ❤️ **Modern Dating App**
+*An AI-assisted matchmaking platform offering compatibility-based suggestions, voice/video profiles, and location-aware features.*
+
+10. 💬 **Chat App (Real-Time Firebase Messaging)**
+*A cross-platform chat application with group chats, media sharing, typing indicators, and push notifications using Firebase and GetX.*
+
+11. 🏋️ **FitTrack (Fitness & Healthcare App**)
+*A personal health & workout tracker syncing data from Apple Watch and Google Fit. Tracks steps, calories, heart rate, and workouts in real-time.*
 
 ---
 
 ## 🎯 **Current Focus**
 
 ✅ Developing an AI-based Educational App with personalized learning paths & career guidance
+
 ✅ Working on a unique AI Thesis for global publication & scholarship consideration
+
 ✅ Scaling SMS Express using Method Channels for deep native SMS scheduling control
+
 ✅ Elevating Course Management System with advanced BLoC architecture & cross-platform support
+
 ✅ Strengthening iOS/Android native integration using Swift, Kotlin, and Java via Method Channels
+
 ✅ Transitioning to BLoC state management for highly scalable and testable architecture
 
 ---
