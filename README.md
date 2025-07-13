@@ -22,39 +22,50 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 ### 🚀 **Featured Projects:**
 
 1. 📚 **Course Management (AI-Powered Learning Platform)**
+
 *A smart education system that personalizes learning for students using AI-driven content recommendations, progress tracking, and career guidance tools.*
 
 2. 📩 **SMS Express (Mass SMS Scheduler – Native via Method Channel)**
+
 *An advanced bulk SMS sending & scheduling system integrated natively using platform channels (Java/Kotlin/Swift). Ideal for businesses and campaigns.*
 
 3. 🛒 **Nivai (Smart E-Commerce App)**
+
 *An online shopping experience with:*
 *Seamless payment integration || Product boast & custom offers || Courier selection || Smooth checkout & cart management*
 
 4. 🏥 **Health House (Apple Watch Integrated Health Manager)**
+
 *Fetches real-time fitness and health data directly from Apple Watch using Swift. Features include heart rate zones, workout summary, and health history sync.*
 
 5. 🎹 **Customized Keyboard App**
+
 *Built with Java (Android) & integrated into Flutter:*
 *Theme customization || Template & symbol insertion || Account sync, emoji, and multilingual support*
 
 6. 🌐 **KeySnd Keyboard (Text to PWA)**
+
 *A Kotlin-based native keyboard that sends typed/selected text to the SaySnd website (PWA) via Android Intents.
 Supports English/Hebrew, a logo-text row, RTL layout, and clipboard copy actions.*
 
 7. 🎉 **Town'ZZ (Event Management App)**
+
 *An all-in-one event planning and organizing tool – from invites to ticketing and check-ins, powered with real-time updates.*
 
 8. 🩸**Rokther Sondhane (Find Blood Donors Nearby)**
+
 *A lifesaving mobile application to instantly find and request blood donors based on location and blood type. Supports emergency mode & real-time updates.*
 
 9. ❤️ **Modern Dating App**
+
 *An AI-assisted matchmaking platform offering compatibility-based suggestions, voice/video profiles, and location-aware features.*
 
 10. 💬 **Chat App (Real-Time Firebase Messaging)**
+
 *A cross-platform chat application with group chats, media sharing, typing indicators, and push notifications using Firebase and GetX.*
 
 11. 🏋️ **FitTrack (Fitness & Healthcare App**)
+
 *A personal health & workout tracker syncing data from Apple Watch and Google Fit. Tracks steps, calories, heart rate, and workouts in real-time.*
 
 ---
