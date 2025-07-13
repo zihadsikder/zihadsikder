@@ -36,7 +36,7 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 
 4. 🏥 **Health House (Apple Watch Integrated Health Manager)**
 
-*Fetches real-time fitness and health data directly from Apple Watch using Swift. Features include heart rate zones, workout summary, and health history sync.*
+*Fetches real-time fitness and health data directly from Apple Watch. Features include heart rate zones, workout summary, and health history sync.*
 
 5. 🎹 **Customized Keyboard App**
 
