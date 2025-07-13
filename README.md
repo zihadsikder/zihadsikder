@@ -30,13 +30,7 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 3. 🛒 **Nivai (Smart E-Commerce App)**
 *An online shopping experience with:*
 
-*Seamless payment integration*
-
-*Product boast & custom offers*
-
-*Courier selection*
-
-*Smooth checkout & cart management*
+*Seamless payment integration || Product boast & custom offers || Courier selection || Smooth checkout & cart management*
 
 4. 🏥 **Health House (Apple Watch Integrated Health Manager)**
 *Fetches real-time fitness and health data directly from Apple Watch using Swift. Features include heart rate zones, workout summary, and health history sync.*
@@ -44,11 +38,7 @@ I'm a passionate **Flutter developer** with over a year of experience, specializ
 5. 🎹 **Customized Keyboard App**
 *Built with Java (Android) & integrated into Flutter:*
 
-*Theme customization*
-
-*Template & symbol insertion*
-
-*Account sync, emoji, and multilingual support*
+*Theme customization || Template & symbol insertion || Account sync, emoji, and multilingual support*
 
 6. 🌐 **KeySnd Keyboard (Text to PWA)**
 *A Kotlin-based native keyboard that sends typed/selected text to the SaySnd website (PWA) via Android Intents.
