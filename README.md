@@ -5,6 +5,8 @@ I'm a passionate Flutter developer from Dhaka, Bangladesh, focused on building b
 
 Currently working as a **Flutter Developer at SM Technology (Betopia Group)** since mid-2024. Pursuing my **BSc in Computer Science and Engineering** at World University of Bangladesh, where I'm finalizing my **thesis**: an **AI-powered educational app** for Bangladeshi students — with personalized learning paths, smart recommendations, progress tracking, and career guidance.
 
+I also have experience handling 100+ international clients, ensuring seamless communication and high-quality delivery.
+
 I love turning ideas into production-ready apps with smooth UI/UX, secure payments, real-time features, and clean code.
 
 ## 🔧 Tech Stack & Skills
