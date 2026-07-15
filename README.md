@@ -1,13 +1,9 @@
 # Hi there, I'm **Abu Sayed Md Zihad**! 👋  
 🚀 **Flutter Developer** | Cross-Platform Mobile App Specialist
 
-I'm a passionate Flutter developer from Dhaka, Bangladesh, focused on building beautiful, performant, and user-friendly mobile apps for Android & iOS. I specialize in **GetX** state management (transitioning to **BLoC** for larger projects), clean architecture, REST API integration, payment gateways, native method channels (Java/Kotlin/Swift), Firebase, and AI-enhanced features.
+I'm a passionate **Flutter Developer** from Dhaka, Bangladesh, specializing in building scalable, high-performance mobile applications for Android and iOS. Experienced in **Flutter, Dart, GetX, Clean Architecture, Firebase, REST APIs, payment gateways, and real-time features.** Currently working at **SM Technology (Betopia Group)**, I've collaborated with **100+ international clients** and successfully published **10+ apps on both the Google Play Store and Apple App Store.** 
 
-Currently working as a **Flutter Developer at SM Technology (Betopia Group)** since mid-2024. Pursuing my **BSc in Computer Science and Engineering** at World University of Bangladesh, where I'm finalizing my **thesis**: an **AI-powered educational app** for Bangladeshi students — with personalized learning paths, smart recommendations, progress tracking, and career guidance.
-
-I also have experience handling 100+ international clients, ensuring seamless communication and high-quality delivery.
-
-I love turning ideas into production-ready apps with smooth UI/UX, secure payments, real-time features, and clean code.
+I enjoy turning complex ideas into clean, reliable, and production-ready mobile solutions.
 
 ## 🔧 Tech Stack & Skills
 
@@ -44,68 +40,52 @@ I love turning ideas into production-ready apps with smooth UI/UX, secure paymen
 
 ## 🚀 Featured Projects (All Completed)
 
+- **Demoulinn** (Social Media Platform)  
+  Full-featured social media application with video sharing, stories, live streaming, profile gallery, cover photos, My Rep videos, group chat, ratings, notifications, and real-time messaging.  
+  *Tech:* Flutter, Dart, Node.js, Express.js, MongoDB, Socket.IO, Firebase, Agora/ZEGO, GetX
+
 - **Nivaii** (E-commerce)  
   All-in-one platform for buying/selling new & used products with secure payments & courier.  
   *Tech:* Flutter, Dart, Node.js, MongoDB, Payment Gateways, Google/Apple Sign-In  
-  *Duration:* 6–8 months
 
 - **Money Saving Techniques (MST)** (Financial Education)  
   Track expenses, savings, debts + premium subscriptions.  
   *Tech:* Flutter, Dart, Node.js, Google Pay, Apple Pay  
-  *Duration:* 5 months
 
 - **Levaro** (Service Marketplace)  
   Connect users with verified local service providers.  
   *Tech:* Flutter, Dart, Node.js, MongoDB, Figma  
-  *Duration:* 4 months
 
 - **Neo Wash** (Car Service Management)  
   Booking, tracking & admin dashboard for vehicle services.  
   *Tech:* Flutter, Dart, Firebase, Stripe, Push Notifications, Calendar API  
-  *Duration:* 7 months
 
 - **Town'ZZ** (Event Management)  
   Discover, promote & ticket local events with geo & QR.  
   *Tech:* Flutter, Dart, Google Maps, Stripe, Firebase  
-  *Duration:* 5 months
 
 - **Abroad** (Travel Companion)  
-  Track visited countries, journals & highlights on world map.  
+  Track visited countries, journals & highlights on the world map.  
   *Tech:* Flutter, Dart, Google Maps, World JSON Maps, Firebase  
-  *Duration:* 6 months
 
 - **Arivoo** (Location-based Alarm)  
   Smart arrival alerts — offline support & radius customization.  
   *Tech:* Flutter, Dart, Geolocator, WorkManager, AudioPlayers  
-  *Duration:* 5 months
 
 - **SMS Express** (Bulk SMS Scheduler)  
   Native SMS scheduling & campaigns via method channels.  
   *Tech:* Flutter, Native Java/Kotlin, SMS APIs  
-  *Duration:* 4 months
 
 - **Custom Keyboard** (Utility)  
   Fully customizable native keyboard with themes & gestures.  
   *Tech:* Java, Android SDK, Kotlin, Material Design  
-  *Duration:* 3 months
 
-- **Course Management** (AI-Powered Education)  
-  Personalized courses, payments & rewards — foundation for my AI thesis.  
-  *Tech:* Flutter, Dart, Firebase, Stripe, PayPal, REST API  
-  *Duration:* 6 months
-
-- **Master Grief** (Emotional Support)  
-  AI companion for grief with mood logs, sessions & memorials.  
-  *Tech:* Flutter, Dart, AI Integration, Firebase, Zoom SDK, Stripe  
-  *Duration:* 10 months
-
-- **Blood BD (Rokther Sondhane)** (Blood Donation)  
+- **Blood BD** (Blood Donation Management)  
   Find nearby donors fast — emergency mode & real-time maps.  
   *Tech:* Flutter, Dart, Google Maps, Firebase, Push/SMS  
-  *Duration:* 4 months
 
-## 🎯 Current Focus (2026)
-- Finalizing & publishing my **AI-based Educational Thesis App** for Bangladeshi students  
+## 🎯 Current Focus
+- Finalizing & publishing my **AI-based Educational App** for Bangladeshi students  
 - Adopting **BLoC** for scalable, testable architecture  
 - Deepening native integrations (Swift/Kotlin/Java via platform channels)  
 - Enhancing real-time & payment features (subscriptions, in-app purchases)  
