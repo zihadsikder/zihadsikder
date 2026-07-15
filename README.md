@@ -1,7 +1,7 @@
 # Hi there, I'm **Abu Sayed Md Zihad**! 👋  
 🚀 **Flutter Developer** | Cross-Platform Mobile App Specialist
 
-I'm a passionate **Flutter Developer** from Dhaka, Bangladesh, specializing in building scalable, high-performance mobile applications for Android and iOS. Experienced in **Flutter, Dart, GetX, Clean Architecture, Firebase, REST APIs, payment gateways, and real-time features.** Currently working at **SM Technology (Betopia Group)**, I've collaborated with **100+ international clients** and successfully published **10+ apps on both the Google Play Store and Apple App Store.** 
+I'm a passionate **Flutter Developer** from Dhaka, Bangladesh, specializing in building scalable, high-performance mobile applications for Android and iOS. Experienced in **Flutter, Dart, GetX, Clean Architecture, Firebase, REST APIs, payment gateways, and real-time features.** Currently working at **SM Technology (Betopia Group)**, I've collaborated with **50+ international clients** and successfully published **10+ apps on both the Google Play Store and Apple App Store.** 
 
 I enjoy turning complex ideas into clean, reliable, and production-ready mobile solutions.
 
