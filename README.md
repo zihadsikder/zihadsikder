@@ -92,11 +92,11 @@ I enjoy turning complex ideas into clean, reliable, and production-ready mobile 
 - Exploring global publication & scholarship opportunities
 
 ## 📫 Let's Connect!
-- **Portfolio**: [https://zihadsikder.vercel.app/](https://zihadsikder.vercel.app/)  
-- **GitHub**: [github.com/zihadsikder](https://github.com/zihadsikder)  
-- **LinkedIn**: [linkedin.com/in/zihadsikder-dev](https://www.linkedin.com/in/zihadsikder-dev/)  
-- **Email**: zihadsikder.engr@gmail.com  
-- **Phone**: +88 0185 482 3849  
+- **Portfolio**: https://www.zihadsikder.com/
+- **GitHub**: https://github.com/zihadsikder
+- **LinkedIn**: https://www.linkedin.com/in/zihadsikder-dev/
+- **Email**: zihadsikder.engr@gmail.com
+- **Phone**: +88 0185 482 3849
 
 💡 **Fun Fact:** When I'm not coding, I'm probably researching AI, sipping coffee, or dreaming up the next app that makes a real difference in Bangladesh. Let's build something awesome together! 🚀😄
 
